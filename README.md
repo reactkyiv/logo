@@ -90,9 +90,9 @@ Download [PNG](React_Kyiv__Logo__with_bg.png)
 
 #### Square (symbol only)
 
-![Logo](React_Kyiv__Symbol__with_bg.png)
+![Logo](React_Kyiv__Sybol__with_bg.png)
 
-Download [PNG](React_Kyiv__Symbol__with_bg.png)
+Download [PNG](React_Kyiv__Sybol__with_bg.png)
 
 
 #### Square (for avatars)
