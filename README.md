@@ -64,6 +64,12 @@ Download [JPG](React_Kyiv__Hero.jpg)
 
 Download [PNG](React_Kyiv__Hero__with_text.png)
 
+#### With photo
+
+![Logo](React_Kyiv__Hero__photo.png)
+
+Download [PNG](React_Kyiv__Hero__photo.png)
+
 
 ## Variants
 
