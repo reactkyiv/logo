@@ -83,9 +83,9 @@ Download [PNG](React_Kyiv__Logo__rounded.png)
 
 #### Rounded (symbol only)
 
-![Logo](React_Kyiv__Symbol__rounded.png)
+![Logo](React_Kyiv__Sybol__rounded.png)
 
-Download [PNG](React_Kyiv__Symbol__rounded.png)
+Download [PNG](React_Kyiv__Sybol__rounded.png)
 
 
 #### Square
