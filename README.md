@@ -54,9 +54,9 @@ Download [PNG](React_Kyiv__Symbol__small.png)  |  [SVG](React_Kyiv__Symbol__smal
 
 #### Small
 
-![Logo](React_Kyiv__Hero.png)
+![Logo](React_Kyiv__Hero.jpg)
 
-Download [PNG](React_Kyiv__Hero.png)
+Download [JPG](React_Kyiv__Hero.jpg)
 
 #### Large
 
